@@ -8,7 +8,7 @@ PROJECT_DIR = Path(__file__).absolute().ancestor(3)
 #
 
 TRAC_CREDS = os.environ['TRAC_CREDS']  # Set to "user:pass" for Trac.
-TRAC_RPC_URL = "https://%s@code.djangoproject.com/login/rpc" % TRAC_CREDS
+TRAC_RPC_URL = "https://code.djangoproject.com/rpc"
 TRAC_URL = "https://code.djangoproject.com/"
 
 #
