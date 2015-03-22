@@ -1,6 +1,16 @@
 Django development dashboard
 ============================
 
+Warning
+-------
+This project is deprecated. The code for dashboard.djangoproject.com is now
+within the `django/djangoproject.com`_ repository.
+
+.. _`django/djangoproject.com`: https://github.com/django/djangoproject.com
+
+Intro
+-----
+
 http://dddash.herokuapp.com/.
 
 A status dashboard tracking some metrics of Django's development process.
